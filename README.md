@@ -1,9 +1,6 @@
 
-# Hello, Jekyll! Theme - Get Started in 60 Seconds
+# Potion
 
+## A Jekyll starter theme
 
-Setup Jekyll with GitHub Pages in 60 Seconds
-
-
-Uses kramdown and sass
-# hello-jekyll
+Comes with basic folder structure, kramdown and sass - but assumes nothing else!
