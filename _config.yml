@@ -1,12 +1,7 @@
-### your site title here
-
-title: Your Site Title
-
-
 ---
 title: Your Site Title
 timezone: Europe/London
-description: A Jekyll starter theme with kramdown ans sass
+description: A Jekyll starter theme with kramdown and sass
 
 # Build settings
 markdown: kramdown

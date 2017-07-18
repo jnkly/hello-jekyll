@@ -3,8 +3,14 @@ title: Welcome
 layout: default
 ---
 
-# Hello, Jekyll!
+# Potion
 
-### With a pink backround!
+## A Jekyll starter theme
 
-Every site should have one - at least you know the sass set up is working ( ^_^)ノ
+Comes with basic folder structure, kramdown and sass - but assumes nothing else!
+
+### Who know's what's gonna happen next?
+
+It's your potion, brew it your way!
+
+(If you've got a red background - your sass is working fine)
