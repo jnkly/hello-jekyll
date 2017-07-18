@@ -3,7 +3,7 @@ title: Welcome
 layout: default
 ---
 
-# Potion
+# Potion (ノ•́‿•̀)ノ⌒･*─☆*:・ﾟ
 
 ## A Jekyll starter theme
 
