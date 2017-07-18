@@ -1,71 +1,7 @@
-:root {
-  --gray: #ffffff;
-  --gray0: #f9f9f9;
-  --gray1: #ededed;
-  --gray2: #e0e0e0;
-  --gray3: #d2d2d2;
-  --gray4: #c3c3c3;
-  --gray5: #b2b2b2;
-  --gray6: #9f9f9f;
-  --gray7: #888888;
-  --gray8: #6c6c6c;
-  --gray9: #3f3f3f
+.white {
+  color: white;
 }
-.gray { color: var(--gray) }
-.gray0 { color: var(--gray0) }
-.gray1 { color: var(--gray1) }
-.gray2 { color: var(--gray2) }
-.gray3 { color: var(--gray3) }
-.gray4 { color: var(--gray4) }
-.gray5 { color: var(--gray5) }
-.gray6 { color: var(--gray6) }
-.gray7 { color: var(--gray7) }
-.gray8 { color: var(--gray8) }
-.gray9 { color: var(--gray9) }
-.bg-gray { background-color: var(--gray) }
-.bg-gray0 { background-color: var(--gray0) }
-.bg-gray1 { background-color: var(--gray1) }
-.bg-gray2 { background-color: var(--gray2) }
-.bg-gray3 { background-color: var(--gray3) }
-.bg-gray4 { background-color: var(--gray4) }
-.bg-gray5 { background-color: var(--gray5) }
-.bg-gray6 { background-color: var(--gray6) }
-.bg-gray7 { background-color: var(--gray7) }
-.bg-gray8 { background-color: var(--gray8) }
-.bg-gray9 { background-color: var(--gray9) }
 
-:root {
-  --red: #dc143c;
-  --red0: #fdf7f9;
-  --red1: #fbe8ec;
-  --red2: #f9d8df;
-  --red3: #f6c6d0;
-  --red4: #f3b2bf;
-  --red5: #f09bac;
-  --red6: #eb7e94;
-  --red7: #e65774;
-  --red8: #d5133a;
-  --red9: #800b23
+.bg-crimson {
+  background-color: crimson;
 }
-.red { color: var(--red) }
-.red0 { color: var(--red0) }
-.red1 { color: var(--red1) }
-.red2 { color: var(--red2) }
-.red3 { color: var(--red3) }
-.red4 { color: var(--red4) }
-.red5 { color: var(--red5) }
-.red6 { color: var(--red6) }
-.red7 { color: var(--red7) }
-.red8 { color: var(--red8) }
-.red9 { color: var(--red9) }
-.bg-red { background-color: var(--red) }
-.bg-red0 { background-color: var(--red0) }
-.bg-red1 { background-color: var(--red1) }
-.bg-red2 { background-color: var(--red2) }
-.bg-red3 { background-color: var(--red3) }
-.bg-red4 { background-color: var(--red4) }
-.bg-red5 { background-color: var(--red5) }
-.bg-red6 { background-color: var(--red6) }
-.bg-red7 { background-color: var(--red7) }
-.bg-red8 { background-color: var(--red8) }
-.bg-red9 { background-color: var(--red9) }
