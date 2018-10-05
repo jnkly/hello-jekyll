@@ -13,6 +13,6 @@ Comes with basic folder structure, kramdown and sass - but assumes nothing else!
 
 It's your potion, brew it your way!
 
-If you've got a 'Jekyll' red background - your sass is working fine :+1:
+If you've got a 'Jekyll' red background - your sass is working fine 👍
 
 Made by [Jnkly](http://johnkelly.design/)
