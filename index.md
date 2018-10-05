@@ -9,10 +9,10 @@ layout: default
 
 Comes with basic folder structure, kramdown and sass - but assumes nothing else!
 
-### Create a beast of a website
+### Create a beast of a website!
 
-It's your potion, brew it your way!
+It's your potion, brew it your way.
 
-If you've got a 'Jekyll' red background - your sass is working fine 👍
+If you've got a 'Jekyll' red background - your sass is working fine.
 
 Made by [Jnkly](http://johnkelly.design/)
